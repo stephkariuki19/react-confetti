@@ -1,4 +1,5 @@
 # react-confetti
+updated by stephanie
 Confetti without the cleanup. [Demo](http://alampros.github.io/react-confetti/)
 
 [![Build Status](https://travis-ci.org/alampros/react-confetti.svg?branch=master)](https://travis-ci.org/alampros/react-confetti)
